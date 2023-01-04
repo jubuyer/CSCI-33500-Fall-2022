@@ -1,0 +1,13 @@
+#Note that it is possible to deviate a little bit from these numbers.
+Input file is ../../rebase210.txt, and sequences file is ../../sequences.txt 
+(The above is just additional information, this should not show up on your output)
+2: 565
+3a: 7.37522
+3b: 0.0130535
+4a: 420
+4b: 7.06429
+5a: 161
+5b: 9.1118
+6a: 404
+6b: 6.89604
+6c: 0.0170694
